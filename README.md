@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JiYongKim-A
-- 🌱 I’m currently learning programing launguage
+- 🌱 I’m currently learning Java,Python
 - 📫 How to reach me ... colorful8315@gmail.com
 - If you see my code, I would appreciate a lot of help.
 
