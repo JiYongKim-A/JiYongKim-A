@@ -8,7 +8,7 @@
 
 Tech Stack
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=colorful8315@gmail.com&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JiYongKim-A&show_icons=true&theme=radical)
 
 <!---
 JiYongKim-A/JiYongKim-A is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
