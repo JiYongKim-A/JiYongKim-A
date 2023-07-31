@@ -2,9 +2,12 @@
 <div align="center">
 
   <h2> 😎 JiYong Kim 😎 </h2>
+
 👋 Hi, I’m JiYongKim
 
 🌱 I’m backend developer using spring boot
+
+<img src="https://github.com/JiYongKim-A/JiYongKim-A/assets/81874493/86849ddf-8c96-481a-b5cb-1a2f8aa9d1c6" width="2%" height="2%"> About me ... [Notion URL](https://private-possum-5a6.notion.site/7d047bf9b95d416da6e2835799d1df21?pvs=4)
 
 📫 How to reach me ... colorful8315@gmail.com
 
